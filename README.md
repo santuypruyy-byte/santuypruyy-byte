@@ -45,8 +45,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Perpus-v2** | Upgraded web-based library management system with structured collection tracking and relational database design[span_2](start_span)[span_2](end_span). | `PHP`, `MySQL`, `MVC`[span_3](start_span)[span_3](end_span) |
-| **Perpus-v1** | Initial version of the library registry system focusing on core CRUD operations and book circulation[span_4](start_span)[span_4](end_span). | `PHP`, `MySQL`, `HTML/CSS`[span_5](start_span)[span_5](end_span) |
+| **Perpus-v2** | Upgraded web-based library management system with structured collection tracking and relational database design. | `PHP`, `MySQL`, `MVC` |
+| **Perpus-v1** | Initial version of the library registry system focusing on core CRUD operations and book circulation. | `PHP`, `MySQL`, `HTML/CSS` |
 
 > 💡 *Explore the pinned repositories right below for source code and implementation details.*
 
