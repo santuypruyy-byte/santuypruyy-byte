@@ -1,16 +1,42 @@
-## Hi there 👋
+![Banner](./github-header-banner.png)
 
-<!--
-**santuypruyy-byte/santuypruyy-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Ahmad! 👋
 
-Here are some ideas to get you started:
+I am a software engineering student and Web Developer focused on building functional applications using PHP, MySQL, and the MVC architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently focusing on developing practical web applications and preparing for practical evaluations.
+- ⚡ Passionate about writing clean backend logic and exploring modern web technologies.
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Highlight Projects:
+> *Check out my pinned repositories below for live project displays.*
+
+- **Perpus-v1 & Perpus-v2:** A web-based library management system built with PHP and MySQL.
+- **Pengaduan Sarpras:** A modular web platform for tracking and managing school facility complaints.
+
+---
+
+### 📫 Let's Connect:
+
+<p>
+  <a href="mailto:santuypruyy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/santuypruyy-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
