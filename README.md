@@ -60,6 +60,14 @@
 
 ---
 
+### 🎮 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santuypruyy-byte/santuypruyy-byte/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
