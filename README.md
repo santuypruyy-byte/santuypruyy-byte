@@ -4,6 +4,11 @@
 
 <h2 align="center">Hi there, I'm Ahmad! 👋</h2>
 
+<!-- Animasi Ksatria Pixel RPG -->
+<p align="center">
+  <img src="./pixeloutput.gif" alt="Pixel RPG Character" width="220px" />
+</p>
+
 <p align="center">
   <b>Software Engineering Student & Web Developer</b><br>
   Building functional, clean, and structured web applications from backend to frontend.
