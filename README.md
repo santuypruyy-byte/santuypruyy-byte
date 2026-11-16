@@ -29,4 +29,4 @@ I am a software engineering student and Web Developer focused on building functi
 
 ---
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ga5o6yxs5nowmwwlxjcpljnoym&theme=spotify)](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ga5o6yxs5nowmwwlxjcpljnoym)
+![](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jeffreyca16&count=10&width=560&album=1&duration=1&footer=wave)
