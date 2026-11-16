@@ -29,13 +29,4 @@ I am a software engineering student and Web Developer focused on building functi
 
 ---
 
-### 📫 Let's Connect:
-
-<p>
-  <a href="mailto:santuypruyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/santuypruyy-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ga5o6yxs5nowmwwlxjcpljnoym)
