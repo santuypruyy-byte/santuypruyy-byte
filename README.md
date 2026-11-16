@@ -26,7 +26,6 @@ I am a software engineering student and Web Developer focused on building functi
 > *Check out my pinned repositories below for live project displays.*
 
 - **Perpus-v1 & Perpus-v2:** A web-based library management system built with PHP and MySQL.
-- **Pengaduan Sarpras:** A modular web platform for tracking and managing school facility complaints.
 
 ---
 
