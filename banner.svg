@@ -12,7 +12,7 @@
   </defs>
 
   <!-- 1. Background GIF (Ganti href dengan Data URI Base64 GIF kamu) -->
-  <image href="TEMPEL_KODE_BASE64_GIF_DISINI" x="0" y="0" width="1000" height="350" preserveAspectRatio="xMidYMid slice" />
+  <image href="pixel-art-banner.gif" x="0" y="0" width="1000" height="350" preserveAspectRatio="xMidYMid slice" />
 
   <!-- 2. Gradasi gelap di sisi kiri agar teks kontras -->
   <rect x="0" y="0" width="1000" height="350" fill="url(#overlay)" />
