@@ -4,9 +4,9 @@
 
 <h2 align="center">Hi there, I'm Ahmad! 👋</h2>
 
-<!-- Animasi Ksatria Pixel RPG -->
+<!-- Animasi Pixel RPG -->
 <p align="center">
-  <img src="./pixeloutput.gif" alt="Pixel RPG Character" width="220px" />
+  <img src="./pixeloutput.gif" alt="Pixel RPG Character" width="255px" />
 </p>
 
 <p align="center">
