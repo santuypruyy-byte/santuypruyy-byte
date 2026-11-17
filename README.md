@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./github-header-banner.png" alt="Ahmad GitHub Banner" width="100%" />
+  <img src="./pixel-art-banner.gif" alt="Ahmad GitHub Banner" width="100%" />
 </p>
+
 
 <h2 align="center">Hi there, I'm Ahmad! 👋</h2>
 
