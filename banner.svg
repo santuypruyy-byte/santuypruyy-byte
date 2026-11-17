@@ -1,0 +1,38 @@
+<svg width="1000" height="350" viewBox="0 0 1000 350" xmlns="http://w3.org">
+  <defs>
+    <!-- Efek bayangan agar teks pixel tajam dan mudah dibaca -->
+    <filter id="pixel-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="3" stdDeviation="0" flood-color="#090d16" flood-opacity="0.9"/>
+    </filter>
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090d16" stop-opacity="0.75"/>
+      <stop offset="60%" stop-color="#090d16" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 1. Background GIF (Ganti href dengan Data URI Base64 GIF kamu) -->
+  <image href="TEMPEL_KODE_BASE64_GIF_DISINI" x="0" y="0" width="1000" height="350" preserveAspectRatio="xMidYMid slice" />
+
+  <!-- 2. Gradasi gelap di sisi kiri agar teks kontras -->
+  <rect x="0" y="0" width="1000" height="350" fill="url(#overlay)" />
+
+  <!-- 3. Border tipis bergaya retro -->
+  <rect x="4" y="4" width="992" height="342" rx="10" fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.4" />
+
+  <!-- 4. Teks Utama -->
+  <text x="60" y="155" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="bold" fill="#ffffff" letter-spacing="2" filter="url(#pixel-shadow)">
+    Hey! I am Ahmad
+  </text>
+
+  <!-- 5. Sub-teks -->
+  <text x="62" y="198" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#86efac" letter-spacing="1" filter="url(#pixel-shadow)">
+    Software Engineering Student &amp; Web Developer
+  </text>
+
+  <!-- 6. Dekorasi Tag Tech Stack -->
+  <rect x="62" y="225" width="230" height="32" rx="6" fill="#0f172a" fill-opacity="0.8" stroke="#86efac" stroke-width="1.5"/>
+  <text x="78" y="246" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="bold" fill="#e2e8f0">
+    &gt; PHP • MySQL • MVC_
+  </text>
+</svg>
